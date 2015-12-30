@@ -19,6 +19,10 @@ You can add an icon to every tab - check out the Font Awesome cheatsheet for all
 
 http://fortawesome.github.io/Font-Awesome/cheatsheet/
 
+Or search for an icon:
+
+http://fortawesome.github.io/Font-Awesome/icons/
+
 Simply enter the icons-class-name (without ```fa-```) in the blueprint (```fa-diamond``` will become ```diamond```).
 
 ***
@@ -30,7 +34,7 @@ fields:
 
 ###################################################
 
-sectionSlider:
+  sectionSlider:
     label: Slider
     id: slider
     type: tab
