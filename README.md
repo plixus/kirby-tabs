@@ -10,10 +10,8 @@ Every tab (section) can have it's own title and icon.
 
 ### How to install?
 
-1. Unzip the folder ```kirby-tabs``` in ```\site\```.
-2. A new field will be created ```\site\fields\tab```.
-3. An example blueprint will be installed ```\site\blueprints\tab-example.php```.
-4. See the blueprint for a detailed set-up, or check out the code below.
+1. Unzip all files in ```\site\fields\tab```.
+2. See the code below for a detailed set-up.
 
 You can add an icon to every tab - check out the Font Awesome cheatsheet for all available icons.
 
