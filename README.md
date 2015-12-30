@@ -1,6 +1,7 @@
 # Kirby - Tabs
 
 **Version 0.0.1 / December, 25th 2015 - intial public offering.**
+**Version 0.1.0 / December, 30th 2015 - merge with other branche.**
 
 Divide the back-end of your Kirby 2.2 (or higher) CMS into tabs (sections).
 
