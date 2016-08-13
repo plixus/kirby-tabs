@@ -37,11 +37,11 @@ fields:
     type: tab
     icon: image
 
-  title_slider:
+  titleSlider:
     label: Title
     type: text
 
-  text_slider:
+  textSlider:
     label: Text
     type: text
 
@@ -55,11 +55,11 @@ fields:
     type: tab
     icon: diamond
 
-  title_features:
+  titleFeatures:
     label: Title
     type: text
 
-  text_features:
+  textFeatures:
     label: Text
     type: text
 
@@ -73,11 +73,11 @@ fields:
     type: tab
     icon: random
 
-  title_workflow:
+  titleWorkflow:
     label: Title
     type: text
 
-  text_workflow:
+  textWorkflow:
     label: Text
     type: text
 
@@ -91,10 +91,10 @@ fields:
     type: tab
     icon: quote-right
 
-  title_quotes:
+  titleQuotes:
     label: Title
     type: text
 
-  text_quotes:
+  textQuotes:
     label: Text
     type: text
